@@ -3,7 +3,7 @@ psutil
 pyjwt
 urllib3
 flask
-protobuf
+protobuf-decoder
 cfonts
 pytz
 aiohttp
