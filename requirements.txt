@@ -1,0 +1,11 @@
+requests
+psutil
+pyjwt
+urllib3
+flask
+protobuf
+cfonts
+pytz
+aiohttp
+google
+google-api-core
