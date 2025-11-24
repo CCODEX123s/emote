@@ -2,10 +2,5 @@ requests
 psutil
 pyjwt
 urllib3
-flask
-protobuf-decoder
-cfonts
 pytz
 aiohttp
-google
-google-api-core
